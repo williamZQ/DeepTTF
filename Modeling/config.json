@@ -1,0 +1,11 @@
+{
+    "NATree": "../data_set/output_data/TreeMatrix_30.npy",
+    "NATree_50": "../data_set/output_data/TreeMatrix_50.npy",
+    "Adj_Matrix": "../data_set/output_data/Adj_Matrix.npy",
+    "A_50": "../data_set/output_data/A_50.npy",
+    "V_nodes": "../data_set/output_data/v_flow_30.csv",
+    "V_avg": "../data_set/output_data/v_flow_30_average.csv",
+    "V_50": "../data_set/output_data/V_flow_50.csv",
+    "Max_Node_Number": 27,
+    "Max_Layer_Number": 12
+}
